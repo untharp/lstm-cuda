@@ -1,2 +1,2 @@
 command for compiling nvcc *cu -arch =compute_20 -O output
-./output
+./output <learning rate> <decay rate> <blocks> <cells> <size ...>
